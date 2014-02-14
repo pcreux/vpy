@@ -1,0 +1,3 @@
+require 'versapay'
+
+Versapay::CLI.start
